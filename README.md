@@ -27,6 +27,6 @@ Este projeto implementa as seguintes funcionalidades para gerenciar e sortear am
 3. Clique no botão "Sortear amigo" para selecionar um nome aleatoriamente.
 
 
-##Link do site: 
+## Link do site: 
 
 https://challenge-amigo-secreto-n9tr.vercel.app/
