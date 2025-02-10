@@ -25,3 +25,8 @@ Este projeto implementa as seguintes funcionalidades para gerenciar e sortear am
 1. Insira um nome no campo de texto e clique em "Adicionar".
 2. Os nomes adicionados serão exibidos em uma lista.
 3. Clique no botão "Sortear amigo" para selecionar um nome aleatoriamente.
+
+
+##Link do site: 
+
+https://challenge-amigo-secreto-n9tr.vercel.app/
